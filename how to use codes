@@ -1,0 +1,26 @@
+
+For product_of_linear_factors:
+1. Set number of variables NV equal to some positive integer.
+2. Specify the degree of the polynomial as input in the calling statement of function Exper2.
+3. Execute the code.
+
+####################################################################################################
+For product of linear and random polynomial:
+1. Set number of variables NV equal to some value.
+2. Assign deg_of_sec_poly (=degree of polynomial Z) equal to some integer in the range [1,4].
+4. Execute the code.
+
+####################################################################################################
+For product of random quadratics:
+1. Set number of variables NV equal to some value.
+2. Execute the code.
+
+####################################################################################################
+For both of the below files:
+1. regularization procedure when degree(P)=3
+2. regularization procedure when degree(P)=4
+
+We have obtained the results as follows:
+1. Set number of variables denoted as NV in the code.
+2. Specify the input with appropriate values in the calling statement of the function PerfOverRandomPoly. Remark that the variable k denotes the number of random derivatives to be compute in the function BVLemma. The function will output the length of the uniform factor for various epsilon's.
+3. Execute the code.
